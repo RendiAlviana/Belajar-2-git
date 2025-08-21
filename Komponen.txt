@@ -3,4 +3,5 @@
 3. Indikator 
 4. Dioda
 5. Trafo
+6. IC digital
 
