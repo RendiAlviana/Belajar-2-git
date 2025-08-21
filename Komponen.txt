@@ -1,3 +1,6 @@
 1. Resistor
 2. Kapasitor
 3. Indikator 
+4. Dioda
+5. Trafo
+
